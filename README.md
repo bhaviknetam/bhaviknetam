@@ -2,8 +2,11 @@
     <h1>✨ Welcome to My GitHub Repo ✨</h1>
     <p>The hub of all my projects and innovations.</p>
     <div>
-        <img src="https://github.com/user-attachments/assets/134bb464-b365-40e5-9ca3-f8f7a25d3e3d" alt="GitHub Banner" style="border-radius: 15px;"/>
-    </div>
+    <img src="https://github.com/user-attachments/assets/134bb464-b365-40e5-9ca3-f8f7a25d3e3d" 
+         alt="GitHub Banner" 
+         style="border-radius: 15px; height: 300px; width: 100%; object-fit: cover;" />
+</div>
+
 </div>
 
 <div align="center">
