@@ -3,7 +3,7 @@
     <p>The hub of all my projects and innovations.</p>
     <div align="center" style="border-radius: 50px; overflow: hidden; display: inline-block; height: 100px; width: auto;">
     <img 
-        src="https://github.com/user-attachments/assets/2e00d6ca-c94c-4323-9112-673799040dee"
+        src="https://github.com/user-attachments/assets/0b5dc47b-9a96-466b-9633-73400f49177a"
         alt="GitHub GIF Banner" 
         style="height: 100%; width: auto;"/>
     </div>
