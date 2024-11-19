@@ -1,25 +1,49 @@
 <div align="center">
-<h1>Welcome to my GitHub Repo</h1>
-<div align="center">The collection of all my projects.</div>
-    <div align="center"  style="height=50px;border-radius=10px"><img src="https://github.com/user-attachments/assets/134bb464-b365-40e5-9ca3-f8f7a25d3e3d">
+    <h1>✨ Welcome to My GitHub Repo ✨</h1>
+    <p>The hub of all my projects and innovations.</p>
+    <div>
+        <img src="https://github.com/user-attachments/assets/134bb464-b365-40e5-9ca3-f8f7a25d3e3d" alt="GitHub Banner" style="border-radius: 15px;"/>
+    </div>
 </div>
 
 <div align="center">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=40&duration=3000&color=5DE2E7&center=true&vCenter=true&width=500&lines=Hey..+I'm+Bhavik;This+is..;..my+Github..;Explore+my+Creations;" alt="Typing SVG"/>
-    </h1>
+    <h2>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=32&duration=3000&color=5DE2E7&center=true&vCenter=true&width=600&lines=Hey,+I'm+Bhavik!;Welcome+to+my+GitHub!;Explore+My+Creations+Below." alt="Typing SVG"/>
+    </h2>
 </div>
+
+---
+
 <div align="center">
     <h2>🚀 About Me</h2>
-    <code>I'm a Engineering UnderGrad specializing in Computer Science🧑🏼‍💻 and Engineering. I enjoy programming, developing real-world applications and exploring new technologies. I am currently exploring the emerging field of Deep Learning, Neural Networks and NLP. I am looking forward for contributing to innovative projects leveraging my coding skills and problem-solving abilities.</code>
+    <p>
+        I'm an Engineering Undergrad specializing in <strong>Computer Science 🧑🏼‍💻</strong>. I enjoy programming, developing real-world applications, and exploring emerging technologies. 
+    </p>
+    <p>
+        Currently, I am delving into <strong>Deep Learning</strong>, <strong>Neural Networks</strong>, and <strong>Natural Language Processing (NLP)</strong>. I am eager to contribute to innovative projects leveraging my coding skills and problem-solving abilities.
+    </p>
 </div>
+
+---
+
 <div align="center">
-    <h3>Github Stats🖥️</h3>
-    <p>Peek into my coding journey and contributions in Github.</p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhaviknetam&theme=github_dark" alt="Bhavik's GitHub Stats"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhaviknetam&theme=github_dark" alt="Bhavik's GitHub Stats"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhaviknetam&theme=github_dark" alt="Bhavik's GitHub Stats"/>
+    <h2>📊 GitHub Stats</h2>
+    <p>Peek into my coding journey and contributions:</p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhaviknetam&theme=github_dark" alt="Profile Details"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhaviknetam&theme=github_dark" alt="Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhaviknetam&theme=github_dark" alt="Productive Time"/>
 </div>
+
+---
+
+<div align="center">
+    <h3>💡 Tech Stack</h3>
+    <p>Tools and technologies I use:</p>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,react,nodejs,mysql,docker,linux,vscode" alt="Tech Stack" />
+</div>
+
+---
+
 <footer align="center">
-<h3>Created with ❤️ and Uploaded by Bhavik.</h3>
+    <h3>👨‍💻 Created with ❤️ by Bhavik Netam</h3>
 </footer>
