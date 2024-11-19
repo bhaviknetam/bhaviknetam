@@ -1,17 +1,19 @@
 <div align="center">
     <h1>✨ Welcome to My GitHub Repo ✨</h1>
     <p>The hub of all my projects and innovations.</p>
-    <div>
-    <img src="https://github.com/user-attachments/assets/134bb464-b365-40e5-9ca3-f8f7a25d3e3d" 
-         alt="GitHub Banner" 
-         style="border-radius: 15px; height: 300px; width: 100%; object-fit: cover;" />
+    <div align="center">
+    <img 
+        src="https://github.com/user-attachments/assets/134bb464-b365-40e5-9ca3-f8f7a25d3e3d" 
+        alt="GitHub GIF Banner" 
+        style="border-radius: 100px; max-width: 100%; height: auto;"/>
 </div>
+
 
 </div>
 
 <div align="center">
     <h2>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=32&duration=3000&color=5DE2E7&center=true&vCenter=true&width=600&lines=Hey,+I'm+Bhavik!;Welcome+to+my+GitHub!;Explore+My+Creations+Below." alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=32&duration=3000&color=0366D6&center=true&vCenter=true&width=600&lines=Hey,+I'm+Bhavik!;Welcome+to+my+GitHub!;Explore+My+Creations+Below." alt="Typing SVG"/>
     </h2>
 </div>
 
