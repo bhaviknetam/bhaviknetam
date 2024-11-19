@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Welcome to my GitHub Repo</h1>
 <div align="center">The collection of all my projects.</div>
-![GithubCatGIF](https://github.com/user-attachments/assets/134bb464-b365-40e5-9ca3-f8f7a25d3e3d)
+<img src="https://github.com/user-attachments/assets/134bb464-b365-40e5-9ca3-f8f7a25d3e3d">
 
 <div align="center">
     <h1>
