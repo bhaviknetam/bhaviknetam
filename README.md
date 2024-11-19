@@ -1,11 +1,12 @@
 <div align="center">
 <h1>Welcome to my GitHub Repo</h1>
 <div align="center">The collection of all my projects.</div>
-<img src="https://github.com/user-attachments/assets/134bb464-b365-40e5-9ca3-f8f7a25d3e3d">
+    <div align="center"  style="height=50px;border-radius=10px"><img src="https://github.com/user-attachments/assets/134bb464-b365-40e5-9ca3-f8f7a25d3e3d">
+</div>
 
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=40&duration=3000&color=5DE2E7&center=true&vCenter=true&width=500&lines=Hey..+I'm+Bhavik;This+is..;..my+Github..;Explore my Creations;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=40&duration=3000&color=5DE2E7&center=true&vCenter=true&width=500&lines=Hey..+I'm+Bhavik;This+is..;..my+Github..;Explore+my+Creations;" alt="Typing SVG"/>
     </h1>
 </div>
 <div align="center">
