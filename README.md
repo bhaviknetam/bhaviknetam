@@ -5,7 +5,7 @@
     <img 
         src="https://github.com/user-attachments/assets/134bb464-b365-40e5-9ca3-f8f7a25d3e3d" 
         alt="GitHub GIF Banner" 
-        style="border-radius: 100px; max-width: 100%; height: auto;"/>
+        style="border-radius: 50px; max-width: 100%; height: auto;"/>
 </div>
 
 
