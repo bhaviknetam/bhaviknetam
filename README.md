@@ -3,11 +3,10 @@
     <p>The hub of all my projects and innovations.</p>
     <div align="center" style="border-radius: 50px; overflow: hidden; display: inline-block; height: 100px; width: auto;">
     <img 
-        src="https://github.com/user-attachments/assets/134bb464-b365-40e5-9ca3-f8f7a25d3e3d" 
+        src="https://github.com/user-attachments/assets/2e00d6ca-c94c-4323-9112-673799040dee"
         alt="GitHub GIF Banner" 
         style="height: 100%; width: auto;"/>
     </div>
-    ![GitbashGitGudGIF](https://github.com/user-attachments/assets/2e00d6ca-c94c-4323-9112-673799040dee)
 
 </div>
 
