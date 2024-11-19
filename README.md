@@ -1,7 +1,7 @@
 <div align="center">
     <h1>✨ Welcome to My GitHub Repo ✨</h1>
     <p>The hub of all my projects and innovations.</p>
-    <div align="center" style="border-radius: 15px; overflow: hidden; display: inline-block; height: 300px; width: auto;">
+    <div align="center" style="border-radius: 50px; overflow: hidden; display: inline-block; height: 100px; width: auto;">
     <img 
         src="https://github.com/user-attachments/assets/134bb464-b365-40e5-9ca3-f8f7a25d3e3d" 
         alt="GitHub GIF Banner" 
