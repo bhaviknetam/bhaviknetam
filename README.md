@@ -7,6 +7,8 @@
         alt="GitHub GIF Banner" 
         style="height: 100%; width: auto;"/>
     </div>
+    ![GitbashGitGudGIF](https://github.com/user-attachments/assets/2e00d6ca-c94c-4323-9112-673799040dee)
+
 </div>
 
 <div align="center">
